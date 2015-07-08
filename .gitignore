@@ -1,3 +1,7 @@
+FYPSystem/build
+FYPSystem/dist
+FYPSystem/nbproject/private
+
 *.class
 
 # Mobile Tools for Java (J2ME)
